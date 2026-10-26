@@ -1,0 +1,13 @@
+Map Name: zm_afternoon
+
+Map Author Name: Tom Gore 
+
+Map Author SteamID: STEAM_0:1:14575911
+
+Map Designer Name: gRoovenstein
+
+Map Designer SteamID: STEAM_0:1:9768238
+
+Map Release Date: 26/07/2014
+
+Map Download URL: http://gamerone.net/topic/2656-zm-afternoon/
