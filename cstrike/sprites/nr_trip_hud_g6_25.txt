@@ -1,0 +1,3 @@
+2
+zoom 640 nr_ui/nr_trip_hud_g6_25 0 -200 256 232
+crosshair 640 nr_ui/nr_trip_hud_g6_25 0 -200 256 232
