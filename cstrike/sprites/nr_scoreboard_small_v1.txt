@@ -1,0 +1,3 @@
+2
+zoom 640 nr_scoreboard/nr_scoreboard_small_v1 0 0 512 384
+crosshair 640 nr_scoreboard/nr_scoreboard_small_v1 0 0 512 384
